@@ -1,0 +1,16 @@
+{
+  "name": "nextjs-express-nowv2-web",
+  "version": "1.0.0",
+  "author": "havoc",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "next": "^7.0.2",
+    "react": "^16.5.1",
+    "react-dom": "^16.5.1"
+  },
+  "scripts": {
+    "start": "next"
+  }
+}
+  
